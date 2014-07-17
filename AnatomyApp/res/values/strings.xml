@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Anatomy In Your Pocket</string>
+    <string name="home">Home</string>
+    <string name="help">Help</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="action_settings">Settings</string>
+    <string name="help_page_intro">        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sollicitudin ipsum non nunc vehicula tincidunt. Proin posuere neque sem, quis tristique ante posuere ac. 
+        Donec vitae dolor quis orci dignissim venenatis in ac nisl. Mauris gravida dui in felis posuere, in aliquet augue scelerisque. Nunc nec pretium nibh, sed tincidunt lacus. 
+        Aenean at consectetur massa. Praesent porttitor a metus condimentum viverra. Morbi metus velit, tempus ultrices vestibulum et, porttitor consequat massa. Morbi sit amet faucibus sem, quis aliquet nunc. 
+        Donec dignissim dolor sit amet mauris lobortis scelerisque. Quisque porttitor, arcu at ultrices fermentum, risus orci posuere tellus, quis varius est turpis quis nibh.</string>
+    <string name="help_page_intro2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sollicitudin ipsum non nunc vehicula tincidunt. Proin posuere neque sem, quis tristique ante posuere ac. 
+        Donec vitae dolor quis orci dignissim venenatis in ac nisl. Mauris gravida dui in felis posuere, in aliquet augue scelerisque. Nunc nec pretium nibh, sed tincidunt lacus. 
+        Aenean at consectetur massa. Praesent porttitor a metus condimentum viverra. Morbi metus velit, tempus ultrices vestibulum et, porttitor consequat massa. Morbi sit amet faucibus sem, quis aliquet nunc. 
+        Donec dignissim dolor sit amet mauris lobortis scelerisque. Quisque porttitor, arcu at ultrices fermentum, risus orci posuere tellus, quis varius est turpis quis nibh.</string>
+    <string name="title_activity_help">HelpActivity</string>
+    <string name="upload">Upload Photo</string>
+    <string name="threeD">Turn 3D</string>
+    <string name="title_activity_zoom_in_zoom_out">ZoomInZoomOut</string>
+    <string name="chooseImage">Choose Image</string>
+    <string name="title_activity_user_setting">UserSettingActivity</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+ 
+     
+    <string name="pref_send_report">Send crash reports</string>
+    <string name="pref_send_report_summary">Helps to fix bugs</string>
+    <string name="pref_sync_frequency">Sync frequency</string>
+    <string name="pref_sync_frequency_summary">Set the sync frequency</string>
+    <string name="pref_user_name">Set username</string>
+    <string name="pref_user_name_summary">Set your username</string>
+     
+    <string name="pref_user_profile">User Profile</string>
+    <string name="pref_update_setting">Update Settings</string>
+
+</resources>
